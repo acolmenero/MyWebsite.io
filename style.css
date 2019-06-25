@@ -1,5 +1,5 @@
 body {
-	background-color: #E6E6E6;
+	background-color: #EEE;
 	font-family: Arial, Helvetica, sans-serif;	
 	line-height: 23px;
 }
@@ -12,11 +12,17 @@ body {
 
 .top {
 	margin: 150px;
-	margin-bottom: 0px;
+	margin-bottom: 60px;
 	margin-top: 60px;
 	text-align: center;
 }
 
-img {
+img.selfie {
 	border-radius: 50%;
+}
+
+img.linkedin {
+	width: 64px;
+	height: 64px;
+	margin-top: 15px;
 }
